@@ -53,7 +53,7 @@ Buka lewat server (bukan langsung dari file), misalnya GitHub Pages atau `python
 - Tekstur planet: [Solar System Scope](https://www.solarsystemscope.com/textures/), lisensi CC BY 4.0
 - [Three.js](https://threejs.org/) r128
 
-**Demo langsung:** https://rafi-ramadhan-999.github.io/solar-odyssey/
+**Demo langsung:** https://icyHollow 2627.github.io/solar-odyssey/
 
 ![Tampilan tata surya](tata-surya.jpg)
 
